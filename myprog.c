@@ -10,6 +10,7 @@ int main() {
 
 	pid=fork();
 
+	my_div(3,8);
 	
 	if (pid==0) {
 		// This is the path that the child will follow 
