@@ -10,3 +10,7 @@ int my_div(int i, int j) {
 int my_sub(int i, int j) {
 	return i - j;
 }
+
+int my_mul(int i, int j) {
+	return i * j;
+}
